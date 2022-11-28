@@ -32,7 +32,7 @@
   ![image](https://user-images.githubusercontent.com/91240401/204222684-d29cb8a5-bd89-4351-841d-64fc2b093582.png)
   <li> Testing connection to the database
   <p> To test the connection to the database get the database connection string from the digitalocean and the password from terraform.tfstate file. Next install MongoDB-compass on you local machine and add the ip address of the local machine to the trusted sources in the digitalocean. In the MongoDB compass App add a new connection enter the connection string and connect </p>
-  ![image](https://user-images.githubusercontent.com/91240401/204223319-9c8f369a-1b61-4044-98f0-05318dc5b3c2.png)
+  ![database connection](https://user-images.githubusercontent.com/91240401/204224185-92a8a2a2-04d4-47fb-a725-333f5ee1650c.jpg)
   <li> Screeenshot of succesful terraform apply run 
   ![image](https://user-images.githubusercontent.com/91240401/204223427-4469142d-a452-493a-9d9b-fdfdfaad8792.png)
 
