@@ -12,8 +12,8 @@
 <H2> Setting up Terraform <H2>
 <ol>
    <li> Step1  Initializing Terraform Run the following command to initialize Terraform
-   <li> Step2  Clone git repository Next clone the git repository using the the git clone command. after cloning the repo you should have a file structure similar to as of below
-   ![image](https://user-images.githubusercontent.com/91240401/204221633-ae1fad81-7bfa-4654-b489-0b50f6b0c38b.png)
+   <li> Step2  Clone git repository Next clone the git repository using the the git clone command. after cloning the repo you should have a file structure similar to   as of below
+   <li> ![image](https://user-images.githubusercontent.com/91240401/204221633-ae1fad81-7bfa-4654-b489-0b50f6b0c38b.png)
 
    <li> Step3  Make changes in the file Next make neceesary changes in the files according to your requirements like changing the linux distro, droplet name, count, database name, firewall specifications etc
    <li> Step4 Run terraform validate, terraform plan and finally terraform apply to apply the changes. After a successful run you should see the following project created in the digital ocean
